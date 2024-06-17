@@ -1,0 +1,24 @@
+{
+  "name": "check-valid-sequence-day",
+  "version": "1.0.0",
+  "description": "Check if a list of days in a CSV file is a valid sequence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonipm/check-valid-sequence-day.git"
+  },
+  "keywords": [
+    "node",
+    "utils",
+    "csv"
+  ],
+  "author": "Toni Peraira <toniperairam@gmail.com> (https://tonipm.com/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tonipm/check-valid-sequence-day/issues"
+  },
+  "homepage": "https://github.com/tonipm/check-valid-sequence-day#readme"
+}
